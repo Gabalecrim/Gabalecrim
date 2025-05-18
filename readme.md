@@ -25,7 +25,10 @@ Gosto de criar soluções simples, úteis e que realmente funcionem — seja no 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
+          
 </div>
 
 - **Front-end**: HTML, CSS, JavaScript, React  
@@ -44,8 +47,9 @@ Interface gráfica para controle de uma envasadora de chope, com visualização 
 
 ## 📬 Contato
 
-- Email: **contato@gabrielalecrim.com.br**  
-- LinkedIn: [gabrielalecrim](https://www.linkedin.com/in/gabrielalecrim/)  
+- Email: contato@gabrielalecrim.com.br*  
+- LinkedIn: [/in/gabrielalecrim/](https://www.linkedin.com/in/gabrielalecrim/)
+- Instagram: [@gabriel_amadigi](https://www.instagram.com/gabriel_amadigi/)
 - Blog (em construção...)
 
 ---
