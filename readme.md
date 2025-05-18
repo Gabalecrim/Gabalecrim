@@ -13,7 +13,7 @@ Curto transformar ideias em projetos reais — especialmente quando misturam sof
 
 Gosto de criar soluções simples, úteis e que realmente funcionem — seja no código ou nos circuitos.
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndxcHg0aGw4eWprcWh4b280Zmp4bDl1OXZ1eTJvZjhtOXQyY2w3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxFw2hwr82jpp7bll1/giphy.gif" alt="bd-1" width="250" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1sczEweGdjbjh4cXo0dHlyZjIzZXZ1N3U5NTYwbnAzaTEyc2F2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/olYmdffiX2C9OQAGtZ/giphy.gif" alt="bd-1" width="250" />
 
 ---
 
