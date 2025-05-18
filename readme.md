@@ -47,7 +47,7 @@ Interface gráfica para controle de uma envasadora de chope, com visualização 
 
 ## 📬 Contato
 
-- Email: contato@gabrielalecrim.com.br*  
+- Email: contato@gabrielalecrim.com.br  
 - LinkedIn: [/in/gabrielalecrim/](https://www.linkedin.com/in/gabrielalecrim/)
 - Instagram: [@gabriel_amadigi](https://www.instagram.com/gabriel_amadigi/)
 - Blog (em construção...)
