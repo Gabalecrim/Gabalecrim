@@ -8,7 +8,7 @@
 
 ## 👋 Sobre mim
 
-Sou o Gabriel, tenho 19 anos e estudo Engenharia Mecatrônica.  
+Sou o Gabriel, tenho 20 anos e estudo Engenharia Mecatrônica.  
 Curto transformar ideias em projetos reais — especialmente quando misturam software, hardware e criatividade.
 
 Gosto de criar soluções simples, úteis e que realmente funcionem — seja no código ou nos circuitos.
@@ -42,6 +42,12 @@ Gosto de criar soluções simples, úteis e que realmente funcionem — seja no 
 
 - 🍺 [Interface ChoppControl](https://github.com/Gabalecrim/Interface_ChoppControl.git): 
 Interface gráfica para controle de uma envasadora de chope, com visualização em tempo real e comandos via serial.
+
+- 🔎 [Leads Filter](https://github.com/Gabalecrim/leads-filter-web) (Em Andamento...)
+Plataforma web para análise e filtragem de leads, com upload de planilhas e classificação automática de empresas.
+
+- ⚙️ [PLC OS](https://github.com/Gabalecrim/PLC_OS) (Em Andamento...)
+Sistema modular para automação industrial, com comunicação entre CLPs, dispositivos de campo e interface web.
 
 ---
 
