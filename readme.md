@@ -56,7 +56,7 @@ Sistema modular para automação industrial, com comunicação entre CLPs, dispo
 - Email: contato@gabrielalecrim.com.br  
 - LinkedIn: [/in/gabrielalecrim/](https://www.linkedin.com/in/gabrielalecrim/)
 - Instagram: [@gabriel_amadigi](https://www.instagram.com/gabriel_amadigi/)
-- Blog (em construção...)
+- Blog [blog.gabrielalecrim](https://blog.gabrielalecrim.com.br)
 
 ---
 
